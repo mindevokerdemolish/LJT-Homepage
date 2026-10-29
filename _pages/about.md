@@ -39,7 +39,7 @@ I am a Ph.D. candidate in Computer Science at the Hong Kong University of Scienc
 5. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. "C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models." *Proceedings of NeurIPS 2023*.
 6. Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. "Composing Parameter-Efficient Modules with Arithmetic Operations." *Proceedings of NeurIPS 2023*.
 
-A full list is also available on the [Publications](/publications/) page.
+A full list is also available on the [Publications]({{ '/publications/' | relative_url }}) page.
 
 ## Awards & Honors
 
